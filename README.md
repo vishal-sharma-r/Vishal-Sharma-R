@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-sharma-rattan&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-sharma-rattan" /> </p>
 
-- 🌱 I’m currently learning **mongoDB**
+<!-- - 🌱 I’m currently learning **F** -->
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/admin?welcome=true](https://linktr.ee/admin?welcome=true)
+<!-- - 👨‍💻 All of my projects are available at [https://linktr.ee/admin?welcome=true](https://linktr.ee/admin?welcome=true) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
