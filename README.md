@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://leetcode.com/Vishal_sharma_rattan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vishal_sharma_rattan/" height="30" width="40" /></a>
 </p>
-<a href="https://github.com/Vishalrattans" target="blank"><img align="center" src="https://icons8.com/icon/106562/github" alt="https://github.com/Vishalrattans" height="30" width="40" /></a>
+<a href="https://github.com/Vishalrattans" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="https://github.com/Vishalrattans" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
