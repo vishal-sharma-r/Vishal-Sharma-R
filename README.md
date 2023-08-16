@@ -1,9 +1,9 @@
-<img width ="100%" src = "https://github.com/Vishal-Sharma-Rattan/Vishal-Sharma-Rattan/blob/main/Untitled%20design.png"> 
+<img width ="100%" src = "https://github.com/Vishal-Sharma-Rattan/Vishal-Sharma-R/blob/main/Untitled%20design.png"> 
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt="coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-sharma-rattan&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-sharma-rattan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-sharma-rattan&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-sharma-r" /> </p>
 
 <!-- - 🌱 I’m currently learning **F** -->
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.com/Vishal_sharma_rattan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vishal_sharma_rattan/" height="30" width="40" /></a>
+<a href="https://leetcode.com/Vishal_sharma_rattan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Vishal_sharma_r/" height="30" width="40" /></a>
 </p>
 <a href="https://github.com/Vishalrattans" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="https://github.com/Vishalrattans" height="30" width="40" /></a>
 </p>
