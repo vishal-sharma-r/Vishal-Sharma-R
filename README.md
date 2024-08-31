@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-sharma-r&show_icons=true&locale=en" alt="vishal-sharma-rattan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-sharma-r&" alt="vishal-sharma-rattan" /></p>
+![Commits Badge](https://badges.pufler.dev/commits/yearly/vishal-sharma-r)
+![PRs Badge](https://img.shields.io/github/issues-pr-closed-raw/vishal-sharma-r/StudyHub)
