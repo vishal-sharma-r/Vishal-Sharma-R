@@ -25,9 +25,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-sharma-r&show_icons=true&locale=en&layout=compact" alt="vishal-sharma-rattan" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-sharma-r&show_icons=true&locale=en" alt="vishal-sharma-rattan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-sharma-r&" alt="vishal-sharma-rattan" /></p>
-![Commits Badge](https://badges.pufler.dev/commits/yearly/vishal-sharma-r)
-![PRs Badge](https://img.shields.io/github/issues-pr-closed-raw/vishal-sharma-r/StudyHub)
+<p><img align="center" src="https://badges.pufler.dev/commits/yearly/vishal-sharma-r" alt="webpack"/></p>
+<p align = "center"><b>Thanks for visiting! Feel free to reach out if you want to collaborate on something cool!</b></p>
